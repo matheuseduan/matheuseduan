@@ -1,7 +1,6 @@
 ```python
 import Desenvolvedor from MatheusEduan
 
-
 class SobreMim(Desenvolvedor):
     nome = "Matheus Eduan"
     area = "Desenvolvimento Web"
