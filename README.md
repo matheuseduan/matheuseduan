@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/matheuseduan/matheuseduan/refs/heads/main/imagens/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/matheuseduan/matheuseduan/refs/heads/main/imagens/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
 
 
 ```python
