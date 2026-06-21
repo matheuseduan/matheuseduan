@@ -11,7 +11,7 @@ class SobreMim(Desenvolvedor):
     local = "Brasil"
 
 class Skills(Desenvolvedor):
-    linguagens = ["Python", "JavaScript"]
+    linguagens = ["Python", "JavaScript", "HTML", "CSS"]
     frameworks = ["Visual Studio Code", "Git", "GitHub"]
 ```
 
