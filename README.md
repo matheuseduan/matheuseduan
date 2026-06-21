@@ -12,6 +12,7 @@ class SobreMim(Desenvolvedor):
 
 class Skills(Desenvolvedor):
     linguagens = ["Python", "JavaScript"]
+    frameworks = ["Visual Studio Code", "Git", "GitHub"]
 ```
 
 ![Windows](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)
