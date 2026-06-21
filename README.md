@@ -20,6 +20,6 @@ class Skills(Desenvolvedor):
     <img src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/></a>
     <a href="#" title="Linux">
     <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/></a>
-    <a href="https://matheuseduan.github.io/portfolio/" title="Portfolio">
-    <img src="https://img.shields.io/badge/portifólio-black?style=for-the-badge&logo=refinedgithub&logoColor=white&link=https://matheuseduan.github.io/portfolio/" alt="Portfólio" target="_blank"/></a>
+    <a href="https://matheuseduan.github.io/portfolio/" title="Portfólio">
+    <img src="https://img.shields.io/badge/portifólio-black?style=for-the-badge&logo=refinedgithub&logoColor=white&link=https://matheuseduan.github.io/portfolio/" alt="Portfólio"/></a>
 </p>
